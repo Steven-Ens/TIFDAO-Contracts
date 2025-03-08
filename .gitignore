@@ -1,0 +1,25 @@
+# Project Documents
+/documents/
+/security_audit/
+
+# Alchemy API URL
+.env
+
+# Hardhat 
+/abi/
+/artifacts/
+/cache/
+hardhat.config.js
+
+# Dependencies
+/node_modules/
+
+# solidity-coverage
+/coverage/
+coverage.json
+
+# Used for Mythril Analysis
+/flattened/
+
+# Mythril Virtual Environment
+/virtual_environment/
