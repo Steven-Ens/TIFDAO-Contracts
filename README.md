@@ -1,5 +1,5 @@
 # Token Index Fund DAO (TIFDAO)
-Token Index Fund DAO smart sontracts. View them on the Ethereum Mainnet:
+Token Index Fund DAO smart contracts. View them on the Ethereum Mainnet:
 
 TIFDAO Token Contract: 0x358c3804099c67CF1805D67f035f5C5CEDd1Ce56
 
